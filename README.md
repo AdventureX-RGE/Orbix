@@ -22,15 +22,15 @@ Orbix fonts currently only support uppercase and lowercase letters, numbers and 
 
 ![Orbix Glyphs](image/glyphs.jpg)
 
-# Stylish Sets
+# Stylistic Sets
 
-Orbix font supports stylish set and provides 2 collections.
+Orbix font supports stylistic set and provides 2 collections.
 
 Take Figma as an example, you can enable these features in design tools that support OpenType features.
 
-The stylish sets are showing as follows:
+The stylistic sets are showing as follows:
 
-![Orbix Stylish Set](image/stylish%20set.jpg)
+![Orbix Stylistic Set](image/stylish%20set.jpg)
 
 # Brand ligature and special characters
 
