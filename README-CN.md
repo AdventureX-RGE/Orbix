@@ -4,7 +4,7 @@
 
 ![Orbix Typeface Cover](image/cover.jpg)
 
-Orbix 是一款由 Besign Foundry 铸字坊设计的曲线圆润的开源风格字体，为 AdventureX 打造。AdventureX 品牌标识亦基于此诞生。如果你打算在涉及 AdventureX 相关排版中应用此字体执行创意，我们建议你阅读这份字体介绍。
+Orbix 是一款由 Besign Foundry 铸字坊设计的曲线圆润的风格开源字体，为 AdventureX 打造。AdventureX 品牌标识亦基于此诞生。如果你打算在涉及 AdventureX 相关排版中应用此字体执行创意，我们建议你阅读这份字体介绍。
 
 # 使用场景
 
